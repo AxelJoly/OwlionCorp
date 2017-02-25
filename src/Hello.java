@@ -2,7 +2,7 @@
  * Created by axel on 25/02/2017.
  */
 public class Hello {
-    System.out.println("Yeah, hello.");
+    //System.out.println("Yeah, hello.");
+    private String dohui;
 
-    // Pull test
 }
